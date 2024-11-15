@@ -3,4 +3,6 @@ chronograf
 telegraf
 kapacitor
 influxdb:2
+chronograf:alpine
+
 
