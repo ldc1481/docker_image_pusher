@@ -1,2 +1,4 @@
 influxdb:2.4
 chronograf:1.10
+influxdb:2
+
