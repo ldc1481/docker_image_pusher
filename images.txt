@@ -1,4 +1,6 @@
 influxdb:2.4
-chronograf:1.10
+chronograf
+telegraf
+kapacitor
 influxdb:2
 
