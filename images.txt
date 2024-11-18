@@ -4,7 +4,7 @@ telegraf
 kapacitor
 influxdb:2
 chronograf:alpine
-grafana
+grafana/grafana:latest
 
 
 
