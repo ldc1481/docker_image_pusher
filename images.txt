@@ -3,6 +3,8 @@ chronograf
 telegraf
 kapacitor
 influxdb:2
+influxdb:2.6-alpine
+telegraf:1.25-alpine
 chronograf:alpine
 grafana/grafana:latest
 
